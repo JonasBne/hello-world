@@ -1,6 +1,6 @@
 # hello-world
 
-👋 Hi there, my name is Jonas. I am enthusiastic, organized and eager-to-learn. As a communicative team player I like to take on responsibility in order to tackle different challenges.
+👋 Hi there, my name is Jonas. I am enthusiastic, organized and eager-to-learn.
 
 🔍 I’m interested in web development! This year I succesfully obtained a micro degree in web technology at Karel de Grote Hogeschool in which I was introduced to the world of HTML, CSS, JavaScript and Node.js (more information down below).
 
